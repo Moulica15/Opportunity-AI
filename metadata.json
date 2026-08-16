@@ -1,0 +1,6 @@
+{
+  "name": "Opportunity Finder",
+  "description": "A comprehensive opportunity platform connecting students with hackathons, internships, scholarships, and fellowships with role-specific views, Kanban application tracker, peer networking, and dynamic OppBot AI counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
